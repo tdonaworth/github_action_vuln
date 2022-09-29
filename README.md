@@ -18,3 +18,9 @@ Like every continuous integration system, its usages may vary. Sample workflows 
 ## GitHub workflow: 
 ![Alt text](https://github.com/actions/runner/blob/main/docs/res/workflow-run.png "GitHub Workflow")
 
+
+
+# Credit
+Some of the content for this was pulled from various articles, repositories, or other research across the web.
+Thank you and credit goes to them:
+* [Cycode - GitHub Actions Vulnerabilities](https://cycode.com/blog/github-actions-vulnerabilities/)
